@@ -1,3 +1,6 @@
+html{
+    background-color:hsl(207, 33%, 95%);
+}
 body {
     family: Barlow Condensed;
     font-weight: 400;
